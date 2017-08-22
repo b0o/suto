@@ -1,4 +1,6 @@
 #!/bin/sh
+# (c) 2017 Maddison Hellstrom; MIT License
+# https://github.com/b0o/suto
 
 help() {
 cat << EOF
