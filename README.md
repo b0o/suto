@@ -3,7 +3,6 @@
 
 suto simply returns the current sudo timeout status.
 
-
 #### Usage:
 suto [-h] | [-ve]
 
@@ -22,6 +21,9 @@ suto [-h] | [-ve]
 Remember that the result of this command is only valid for the exact moment it is run.
 
 It's possible the sudo timeout will expire immediately after this command is run.
+
+#### See Also:
+[suto-prompt](https://github.com/b0o/suto-prompt)
 
 #### License:
 &copy;2017 Maddison Hellstrom; MIT License
